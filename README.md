@@ -1,3 +1,4 @@
+<img src="https://github.com/94sonirashmi/94sonirashmi/blob/main/Banner.gif" alt="I am Rashmi Soni - Data Scientist">
 <h1 align="center">Hello world!👋, I'm Rashmi Soni</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
